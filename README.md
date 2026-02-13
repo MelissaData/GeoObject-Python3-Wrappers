@@ -6,23 +6,23 @@ This is the code for you to run GeoCoder Object in Python3.
     
 Please feel free to copy or embed this code to your own project. Happy coding!
 
-For latest Melissa GeoCoder Object release notes, please visit: https://releasenotes.melissa.com/on-premise-api/geocoder-object/
+To view the latest Melissa GeoCoder Object release notes or to subscribe to product notifications, please visit: https://releasenotes.melissa.com/on-premise-api/geocoder-object/
 
 For further details, please visit: https://www.melissa.com/reference-guides/geocoder-object
 
 ## Tested Environments
 
-- Windows 10 64-bit Python 3.8.7, Powershell 5.1
+- Windows 11 64-bit Python 3.8.7, Powershell 5.1
 - Linux 64-bit Python 3.8.7, Ubuntu 20.04.05 LTS
-- Melissa GeoCoder Object for 2025-Q4
+- Melissa GeoCoder Object for 2026-Q1
 - Wrapper file(s) have not changed since 2025-Q1
 
 ## Getting Started
 
 ### Download this project
 ```
-git clone https://github.com/MelissaData/GeoObject-Python3-Wrappers
-cd GeoObject-Python3-Wrappers
+git clone https://git.melissadata.com/dtgroup/melissadataobjectexamples/python3/melissageocoderobjectpython3wrappers
+cd melissageocoderobjectpython3wrappers
 ```
 
 ### Copy wrappers to your project folder
