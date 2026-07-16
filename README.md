@@ -21,8 +21,8 @@ For further details, please visit: https://www.melissa.com/reference-guides/geoc
 
 ### Download this project
 ```
-git clone https://git.melissadata.com/dtgroup/melissadataobjectexamples/python3/melissageocoderobjectpython3wrappers
-cd melissageocoderobjectpython3wrappers
+git clone https://github.com/MelissaData/GeoObject-Python3-Wrappers
+cd GeoObject-Python3-Wrappers
 ```
 
 ### Copy wrappers to your project folder
