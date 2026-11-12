@@ -14,8 +14,8 @@ For further details, please visit: https://www.melissa.com/reference-guides/geoc
 
 - Windows 11 64-bit Python 3.8.7, Powershell 5.1
 - Linux 64-bit Python 3.8.7, Ubuntu 20.04.05 LTS
-- Melissa GeoCoder Object for 2026-Q3
-- Wrapper file(s) have not changed since 2025-Q1
+- Melissa GeoCoder Object for 2026-Q4
+- Wrapper file(s) have not changed since 2026-Q4
 
 ## Getting Started
 
